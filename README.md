@@ -7,3 +7,6 @@ Fake user data - https://fakeapi.platzi.com/
 - Alamofire - https://github.com/Alamofire/Alamofire
 * SwiftyJSON - https://github.com/SwiftyJSON/SwiftyJSON
 + SDWebImageSwiftUI - https://github.com/SDWebImage/SDWebImageSwiftUI
+
++ ![Screens](https://github.com/hmooios/Fetching-users-Alamofire/blob/main/fetchingdata.png)
+
